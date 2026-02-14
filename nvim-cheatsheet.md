@@ -20,6 +20,7 @@
 | `w` / `b` | Next / previous word |
 | `e` | End of word |
 | `0` / `$` | Start / end of line |
+| `L` | End of line (custom, replaces `$`) |
 | `^` | First non-blank char |
 | `gg` / `G` | Top / bottom of file |
 | `{` / `}` | Previous / next paragraph |

@@ -1,9 +1,5 @@
 # Neovim Commands Curriculum
 
-Learn in order. Master each section before moving on.
-
----
-
 ## 1. Survival (Learn First)
 
 | Key | Action |
@@ -27,6 +23,7 @@ Learn in order. Master each section before moving on.
 | `w` / `b` | Next / previous word |
 | `e` | End of word |
 | `0` / `$` | Start / end of line |
+| `L` | End of line (custom, replaces `$`) |
 | `^` | First non-blank char |
 | `gg` / `G` | Top / bottom of file |
 | `:{n}` | Go to line `n` |
@@ -243,6 +240,4 @@ In visual mode, apply operators: `d`, `c`, `y`, `>`, `<`, `~`
 | `:earlier 5m` | Undo to 5 minutes ago |
 | `:later 5m` | Redo to 5 minutes ago |
 
----
 
-*Tip: The Vim "language" is `{count}{operator}{motion/text-object}`. Once you internalize this grammar, commands compose naturally.*

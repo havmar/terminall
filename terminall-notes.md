@@ -32,7 +32,23 @@ Powershell:
 - Split pane right: Alt+Shift+=
 
 
+split: Alt + Shift + D 
+---
+neovim
+yazi
+fzf
+lazygit 
+---
 
+
+
+---
+phone terminal cc
+ggl drive sync most.txt
+browsing into terminal !
+---
+d$ helyett dl?
+   
 
 
 
