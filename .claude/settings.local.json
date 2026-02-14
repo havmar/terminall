@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nvim:*)",
+      "Bash(fzf:*)",
+      "Bash(echo:*)",
+      "Bash(env)",
+      "Bash(reg query:*)",
+      "Bash(powershell.exe -Command \"[Environment]::GetEnvironmentVariable\\(''FZF_DEFAULT_OPTS'', ''User''\\)\")",
+      "Bash(powershell.exe -NoProfile -Command \"[Environment]::GetEnvironmentVariable\\(''FZF_DEFAULT_OPTS'', ''User''\\)\")",
+      "Bash(powershell.exe -NoProfile -Command \"[Environment]::GetEnvironmentVariable\\(''FZF_DEFAULT_OPTS'', ''Machine''\\)\")",
+      "Bash(powershell.exe -NoProfile -Command \"Get-ChildItem Env: | Where-Object { $_.Name -like ''*FZF*'' } | Format-Table Name, Value\")",
+      "Bash(powershell.exe -NoProfile -Command \"echo $PROFILE\")"
+    ]
+  }
+}
