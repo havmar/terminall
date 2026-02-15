@@ -2,7 +2,8 @@
 
 ## Environment
 - **Terminal:** Windows Terminal + PowerShell
-- **Purpose:** Practice workspace for nvim, fzf, yazi
+- **PowerShell profile:** `C:\Users\havasreti.marton\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+- **Purpose:** Practice workspace for nvim, fzf, yazi, zoxide, lazygit
 
 ## Neovim Setup
 

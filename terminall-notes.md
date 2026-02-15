@@ -24,15 +24,17 @@ nvim -u NONE "C:/Program Files/Vim/vim91/tutor/tutor1"
 
 claude --dangerously-skip-permissions
 
-Ctrl + Shift + W. (This closes the active pane)
 
-Powershell:
+## nvim
+- Press @: to repeat the last : command.
+  You can also press : then ↑ (up arrow) to browse through your command history
+
+## Powershell:
 - Duplicate tab: Ctrl+Shift+D (opens a new tab with the same profile/directory)
 - Split pane down: Alt+Shift+-
 - Split pane right: Alt+Shift+=
-
-
-split: Alt + Shift + D 
+- auto split: Alt + Shift + D 
+- Ctrl + Shift + W. (This closes the active pane)
 ---
 neovim
 yazi
