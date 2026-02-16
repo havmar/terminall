@@ -12,7 +12,9 @@
       "Bash(powershell.exe -NoProfile -Command \"Get-ChildItem Env: | Where-Object { $_.Name -like ''*FZF*'' } | Format-Table Name, Value\")",
       "Bash(powershell.exe -NoProfile -Command \"echo $PROFILE\")",
       "Bash(powershell -Command:*)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "WebSearch",
+      "Bash(git -C C:/minden/projects/terminall remote -v:*)"
     ]
   }
 }

@@ -2,7 +2,7 @@
 
 ## New
 
-
+cc shift enter should work for newline
 
 ## Prio C
 - email alias

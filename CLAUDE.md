@@ -1,8 +1,15 @@
 # Project: terminall
 
+## What this is
+Learning workspace for terminal tools — not a coding project. No build system, no tests. Files are notes, cheatsheets, and guides. Claude's role here is configuring tools and helping learn them.
+
+## Session rule
+After any config change (nvim init.lua, powershell profile, yazi config, new plugin, new keybinding), run `/claude-md-management:revise-claude-md` to capture the change into this file.
+
 ## Environment
 - **Terminal:** Windows Terminal + PowerShell
 - **PowerShell profile:** `C:\Users\havasreti.marton\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1`
+- **Yazi config:** `%APPDATA%\yazi\config\yazi.toml` (all files open in nvim)
 - **Purpose:** Practice workspace for nvim, fzf, yazi, zoxide, lazygit
 
 ## Neovim Setup
