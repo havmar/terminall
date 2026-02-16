@@ -24,6 +24,7 @@ nvim -u NONE "C:/Program Files/Vim/vim91/tutor/tutor1"
 
 claude --dangerously-skip-permissions
 
+gh repo create <repo-name> --public --source=. --remote=origin --push
 
 ## nvim
 - Press @: to repeat the last : command.

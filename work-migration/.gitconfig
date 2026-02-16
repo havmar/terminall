@@ -1,0 +1,7 @@
+[user]
+	name = Marton
+	email = martonhavasreti@gmail.com
+[safe]
+	directory = %(prefix)///wsl.localhost/Ubuntu/home/mukunda/projects/m25/gem-borg
+	directory = %(prefix)///wsl.localhost/Ubuntu/home/mukunda/projects/m25/mythomancer
+	directory = C:/minden/projects/DS-modding/params
